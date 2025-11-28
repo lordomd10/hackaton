@@ -1,6 +1,6 @@
 streamlit
 pandas
 plotly
+fpdf
 pyarrow
 openpyxl
-reportlab
